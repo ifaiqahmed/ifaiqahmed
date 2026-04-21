@@ -8,18 +8,17 @@
 ---
 
 ## 🚀 About Me
-- 🔧 Embedded Systems & IoT Developer (STM32, ESP32)
+- 🔧 Embedded Systems & IoT Developer (STM32, ESP32, Arduino)
 - ⚙️ Strong in C programming & low-level firmware
 - 📡 Experience with UART, SPI, I2C, ADC, PWM, DMA
 - 🧠 Working with FreeRTOS & real-time systems
-- 🌐 Background in MERN stack (for IoT integration)
 
 ---
 
 ## ⚡ Skills
 
 ### 🧠 Embedded
-- C (Bare-metal & RTOS)
+- C/C++
 - STM32, ESP32
 - Interrupts, DMA, Timers
 
